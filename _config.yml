@@ -1,19 +1,19 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: Yunfei's Blog
+SEOTitle: 魏云飞的博客 | Yunfei's Blog
 header-img: img/home-bg.jpg
-email: caojiele1225@126.com
+email: weiyf_2333@hotmail.com
 description: ""
 keyword: ""
-url: "https://caojiele.com"              # your host, for absolute URL
-baseurl: "/Jlcaoblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://weiyunfei.github.io"              # your host, for absolute URL
+baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-zhihu_username:     wang-le-6-62
-github_username:    caojiele
+# zhihu_username:     wang-le-6-62
+github_username:    weiyunfei
 #linkedin_username:  Jack-cao-387159129
 
 
@@ -55,17 +55,17 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 
 
-# Analytics settings
-# Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
-# Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: caojiele.com
+# # Analytics settings
+# # Baidu Analytics
+# ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+# # Google Analytics
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: caojiele.com
 
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，要出去看看。"
 sidebar-avatar: /img/avatar-Jack.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -77,22 +77,22 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 
-# Friends
-friends: [
-    {
-        title: "Jlcao Blog",
-        href: "https://caojiele.com"
-    },{
-        title: "曹",
-        href: "https://caojiele.com"
-    },{
-        title: "杰",
-        href: "https://caojiele.com"
-    },{
-        title: "乐",
-        href: "https://caojiele.com"
-    },{
-        title: "曹小宝宝",
-        href: "https://caojiele.com"
-    }
-]
+# # Friends
+# friends: [
+#     {
+#         title: "Jlcao Blog",
+#         href: "https://caojiele.com"
+#     },{
+#         title: "曹",
+#         href: "https://caojiele.com"
+#     },{
+#         title: "杰",
+#         href: "https://caojiele.com"
+#     },{
+#         title: "乐",
+#         href: "https://caojiele.com"
+#     },{
+#         title: "曹小宝宝",
+#         href: "https://caojiele.com"
+#     }
+# ]
