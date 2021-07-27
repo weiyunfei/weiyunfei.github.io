@@ -1,3 +1,6 @@
+# My README
+
+This blog site is built on JlcaoBlog Boilerplate, which is based on Jekyll.
 # JlcaoBlog Boilerplate
 
 ##### This is the boilerplate of [Jlcao Blog](https://github.com/caojiele/caojiele.github.io), all documents is over there!
